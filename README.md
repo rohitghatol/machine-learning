@@ -5,5 +5,5 @@ This repository contains code I used to pick up Machine Learning.
 
 * Data Preprocessing
 * Regression
-** Simple Linear Regression
+  * Simple Linear Regression
 
